@@ -1,0 +1,43 @@
+body {
+  background-color:rgb(100,100,100);
+}
+	
+h1 {
+	font-family: Arial Black;
+	font-size: 75;
+  text-decoration: underline;
+  text-align: center;
+  color: rgb(255, 0, 0)
+}
+  
+h2 {
+  font-family: Arial Black;
+	color: rgb(255, 48, 48);
+	font-size: 40;
+	text-align: center;
+}
+h3 {
+  font-family: Arial Black;
+ 	color: rgba(221, 221, 221, .75);
+  font-size: 22;
+}
+  
+a {
+	font-family: Arial Black;
+	color: rgb(255, 0, 0);
+	font-size: 35px;
+	font-weight: bold
+}
+			
+li {
+	font-size: 25px;
+	font-weight: bold
+}
+	  
+hr {
+	border: 10px rgba(100, 100, 100, 0) solid;
+	background-color: rgb(255, 72, 0);
+	padding: 4px;
+}
+
+.page-break {height: 20vh}
